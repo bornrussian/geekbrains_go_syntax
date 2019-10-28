@@ -1,9 +1,9 @@
 package main
 
 import (
-	"bornrussian/golang0000/bank"
-	"bornrussian/golang0000/rub2usd"
-	"bornrussian/golang0000/triangle"
+	"geekbrains_go_syntax/homework-01/bank"
+	"geekbrains_go_syntax/homework-01/rub2usd"
+	"geekbrains_go_syntax/homework-01/triangle"
 )
 
 func main() {
